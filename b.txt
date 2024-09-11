@@ -1,12 +1,3 @@
 b soubor
 
-druha vetev v becku
-
-
-prvni commit 
-
-druhy como slucka
-
-
-
-tohle ma zustat
+PRVNI
