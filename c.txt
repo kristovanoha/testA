@@ -18,26 +18,10 @@ next  NA hlavni byla zmena
 JE TAM 
 next  NA hlavni byla zmena
 
+x1
 
+x2
 
+x3
 
-
-
-
-
-
-
-
-
-
-FEATURE
-
-prvni
-
-
-
-a3
-
-a4
-
-a5
+x4
