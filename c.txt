@@ -13,4 +13,4 @@ b
 
 test rebase
 
-next
+next  NA hlavni byla zmena
