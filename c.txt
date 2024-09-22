@@ -24,3 +24,5 @@ pryc
 dalsi coc nechat
 
 log 1
+
+log 2
