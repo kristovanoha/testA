@@ -22,3 +22,5 @@ A OPET
 pryc
 
 dalsi coc nechat
+
+log 1
