@@ -16,3 +16,12 @@ test rebase
 next  NA hlavni byla zmena
 
 JE TAM 
+next  NA hlavni byla zmena
+
+x1
+
+x2
+
+x3
+
+x4
